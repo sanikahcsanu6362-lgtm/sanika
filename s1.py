@@ -21,4 +21,4 @@ s=student()
 s.insert()
 s.display()
 s.delete()
-s.display()456
+s.display()
