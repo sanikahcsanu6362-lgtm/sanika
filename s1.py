@@ -22,3 +22,8 @@ s.insert()
 s.display()
 s.delete()
 s.display()
+
+a=8
+b=84
+sum=a+b
+print(sum)
